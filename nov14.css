@@ -1,3 +1,37 @@
-a.gindako{
+.blk {
+	padding: .2px;
+	border-bottom: 2px solid #64B5F6;
+  box-shadow:0px 4px 0px 0px #0D47A1;
+  width: 10%;
+}
+.hiyoko{
+	padding: .2px;
+	border-bottom: 2px solid #64B5F6;
+  box-shadow:0px 4px 0px 0px #0D47A1;
+  width: 10%;
+}
+.sake{
+	padding: .2px;
+	border-bottom: 2px solid #64B5F6;
+  box-shadow:0px 4px 0px 0px #0D47A1;
+  width: 17%;
+}
+.gindako{
   color: red;
-  }
+}
+.takoyaki{
+	padding: .2px;
+	border-bottom: 2px solid #64B5F6;
+  box-shadow:0px 4px 0px 0px #0D47A1;
+  width: 17%;
+}
+.tapi{
+	padding: .2px;
+	border-bottom: 2px solid #64B5F6;
+  box-shadow:0px 4px 0px 0px #0D47A1;
+  width: 17%;
+}
+.ramen{padding: .2px;
+	border-bottom: 2px solid #64B5F6;
+  box-shadow:0px 4px 0px 0px #0D47A1;
+  width: 17%;}
